@@ -49,6 +49,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn8&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kathryn8&theme=gruvbox)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kathryn8&theme=gruvbox)]
 
 
