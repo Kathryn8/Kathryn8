@@ -12,11 +12,12 @@
 
 ---
 
-### :woman_technologist: About Me : I am a junior software developer who love solving problems
+### :woman_technologist: About Me : I am a junior software developer who loves solving problems
+💜 My passion is about using technology to help people 
 🔭 I’m currently working on an AirBnB clone project\
 🌱 I’m currently learning Python and SQL\
 👯 I love meeting and working with other developers\
-🤔 I maintain a strong growth mindset around technology and learning\
+💪 I maintain a strong growth mindset around technology and learning\
 💬 Ask me about cold water swimming\
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kathryn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kathryn-kelly-7b10b3243/)
 
@@ -34,10 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM i" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
           
 </div>
