@@ -13,7 +13,7 @@
 ---
 
 ### :woman_technologist: About Me : I am a junior software developer who loves solving problems
-💜 My passion is about using technology to help people 
+💜 My passion is about using technology to help people\
 🔭 I’m currently working on an AirBnB clone project\
 🌱 I’m currently learning Python and SQL\
 👯 I love meeting and working with other developers\
