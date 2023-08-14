@@ -13,11 +13,11 @@
 ---
 
 ### :woman_technologist: About Me : I am a junior software developer who love solving problems
-🔭 I’m currently working on an AirBnB clone project
-🌱 I’m currently learning Python and SQL
-👯 I love meeting and working with other developers
-🤔 I maintain a strong growth mindset around technology and learning
-💬 Ask me about cold water swimming
+🔭 I’m currently working on an AirBnB clone project\
+🌱 I’m currently learning Python and SQL\
+👯 I love meeting and working with other developers\
+🤔 I maintain a strong growth mindset around technology and learning\
+💬 Ask me about cold water swimming\ 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kathryn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kathryn-kelly-7b10b3243/)
 
 ---
